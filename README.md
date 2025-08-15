@@ -33,7 +33,7 @@
 💬 Вопросы, ошибки, идеи — пиши в Telegram:  
 [@anna_n_n](https://t.me/anna_n_n) • [@aa_ber](https://t.me/aa_ber) • [@aav_hr](https://t.me/aav_hr)  
 
-📂 **[Перейти к базе](https://github.com/Hunters-of-the-World-WIKI)**  
+🔙 [Вернуться к главной странице](https://github.com/Hunters-of-the-World-WIKI) 
 
 ---
 
